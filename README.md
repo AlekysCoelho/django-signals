@@ -1,0 +1,1 @@
+# Implementing a Django signals example.
